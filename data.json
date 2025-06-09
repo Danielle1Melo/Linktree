@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "nome": "Emília Andrade",
+    "fotoUrl": "/public/assets/images/emilia.png",
+    "background": {
+      "tipo": "imagem",
+      "valor": "/public/assets/images/bg-emilia.png"
+    },
+    "estilos": {
+      "corLink": "#ffffff",
+      "corLinkHover": "#ffffff",
+      "corHover": "#3B81D8",
+      "background": "#6DA9F3",
+      "corTexto": "#000000",
+      "borderRadius": "4px",
+      "border": "0",
+      "borderHover": "0"
+    },
+    "links": [
+      { "icone": "Wifi", "texto": "Blog", "url": "https://exemplo.com/blog" },
+      { "icone": "Github", "texto": "GitHub", "url": "https://github.com/emilia" },
+      { "icone": "Linkedin", "texto": "LinkedIn", "url": "https://linkedin.com/in/emilia" },
+      { "icone": "Instagram", "texto": "Instagram", "url": "https://instagram.com/emilia" },
+      { "icone": "Mail", "texto": "Enviar um e-mail", "url": "mailto:emilia@exemplo.com" }
+    ],
+    "qrcode": "/public/assets/images/qrcode-emilia.png"
+  },
+  {
+    "id": "2",
+    "nome": "Tereza Oliveira",
+    "fotoUrl": "/public/assets/images/tereza.png",
+    "background": {
+      "tipo": "imagem",
+      "valor": "/public/assets/images/bg-tereza.png"
+    },
+    "estilos": {
+      "corLink": "#ffffff",
+      "corLinkHover": "#ffffff",
+      "corHover": "#159128",
+      "background": "#3AB74D",
+       "corTexto": "#000000",
+      "borderRadius": "0",
+      "border": "0",
+      "borderHover": "0"
+    },
+    "links": [
+      { "icone": "Wifi", "texto": "Blog", "url": "https://exemplo.com/blog" },
+      { "icone": "Github", "texto": "GitHub", "url": "https://github.com/tereza" },
+      { "icone": "Linkedin", "texto": "LinkedIn", "url": "https://linkedin.com/in/tereza" },
+      { "icone": "Instagram", "texto": "Instagram", "url": "https://instagram.com/tereza" },
+      { "icone": "Mail", "texto": "Enviar um e-mail", "url": "mailto:tereza@exemplo.com" }
+    ],
+    "qrcode": "/public/assets/images/qrcode-tereza.png"
+  },
+  {
+    "id": "3",
+    "nome": "Marco Andrade",
+    "fotoUrl": "/public/assets/images/marco.png",
+    "background": {
+      "tipo": "cor",
+      "valor": "#ff6f6f"
+    },
+    "estilos": {
+      "corLink": "#000000",
+      "corLinkHover": "#FFFFFF",
+      "corHover": "#D8565E",
+      "background": "#F1F1F1",
+      "corTexto": "#FFFFFF",
+      "borderRadius": "16px",
+      "border": "0",
+      "borderHover": "1px solid #ffffff"
+    },
+    "links": [
+      { "icone": "Wifi", "texto": "Blog", "url": "https://exemplo.com/blog" },
+      { "icone": "Github", "texto": "GitHub", "url": "https://github.com/marco" },
+      { "icone": "Linkedin", "texto": "LinkedIn", "url": "https://linkedin.com/in/marco" },
+      { "icone": "Instagram", "texto": "Instagram", "url": "https://instagram.com/marco" },
+      { "icone": "Mail", "texto": "Enviar um e-mail", "url": "mailto:marco@exemplo.com" }
+    ],
+    "qrcode": "/public/assets/images/qrcode-marco.png"
+  },
+  {
+    "id": "4",
+    "nome": "José Silva",
+    "fotoUrl": "/public/assets/images/jose.png",
+    "background": {
+      "tipo": "cor",
+      "valor": "#ffcc40"
+    },
+    "estilos": {
+      "corLink": "#000000",
+      "corLinkHover": "#000000",
+      "corHover": "#F1B924",
+      "background": "#F1F1F1",
+      "corTexto": "#000000",
+      "borderRadius": "32px",
+      "border": "0",
+      "borderHover": "0"
+    },
+    "links": [
+      { "icone": "Wifi", "texto": "Blog", "url": "https://exemplo.com/blog" },
+      { "icone": "Github", "texto": "GitHub", "url": "https://github.com/jose" },
+      { "icone": "Linkedin", "texto": "LinkedIn", "url": "https://linkedin.com/in/jose" },
+      { "icone": "Instagram", "texto": "Instagram", "url": "https://instagram.com/jose" },
+      { "icone": "Mail", "texto": "Enviar um e-mail", "url": "mailto:jose@exemplo.com" }
+    ],
+    "qrcode": "/public/assets/images/qrcode-jose.png"
+  },
+  {
+    "id": "5",
+    "nome": "Eliana Silva",
+    "fotoUrl": "/public/assets/images/eliana.png",
+    "background": {
+      "tipo": "gradiente",
+      "valor": "linear-gradient(to bottom, #535155, #B7B2BB)"
+    },
+    "estilos": {
+      "corLink": "#dcdcdc",
+      "corLinkHover": "#dcdcdc",
+      "corHover": "#222124",
+      "background": "#535155",
+      "corTexto": "#ffffff",
+      "borderRadius": "4px",
+      "border": "0",
+      "borderHover": "0"
+    },
+    "links": [
+      { "icone": "Wifi", "texto": "Blog", "url": "https://exemplo.com/blog" },
+      { "icone": "Github", "texto": "GitHub", "url": "https://github.com/eliana" },
+      { "icone": "Linkedin", "texto": "LinkedIn", "url": "https://linkedin.com/in/eliana" },
+      { "icone": "Instagram", "texto": "Instagram", "url": "https://instagram.com/eliana" },
+      { "icone": "Mail", "texto": "Enviar um e-mail", "url": "mailto:eliana@exemplo.com" }
+    ],
+    "qrcode": "/public/assets/images/qrcode-eliana.png"
+  },
+  {
+    "id": "6",
+    "nome": "Eliana Silva",
+    "fotoUrl": "/public/assets/images/eliana.png",
+    "background": {
+      "tipo": "gradiente",
+      "valor": "linear-gradient(to bottom, #64c7c0, #84d1f0)"
+    },
+    "estilos": {
+      "corLink": "#ffffff",
+      "corLinkHover": "#ffffff",
+      "corHover": "#222124",
+      "background": "0",
+      "corTexto": "#ffffff",
+      "borderRadius": "32px",
+      "border": "1px solid #ffffff",
+      "borderHover": "0"
+    },
+    "links": [
+      { "icone": "Wifi", "texto": "Blog", "url": "https://exemplo.com/blog" },
+      { "icone": "Github", "texto": "GitHub", "url": "https://github.com/eliana" },
+      { "icone": "Linkedin", "texto": "LinkedIn", "url": "https://linkedin.com/in/eliana" },
+      { "icone": "Instagram", "texto": "Instagram", "url": "https://instagram.com/eliana" },
+      { "icone": "Mail", "texto": "Enviar um e-mail", "url": "mailto:eliana@exemplo.com" }
+    ],
+    "qrcode": "/public/assets/images/qrcode-eliana.png"
+  }
+]
