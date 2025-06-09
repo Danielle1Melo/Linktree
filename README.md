@@ -7,7 +7,7 @@ This project is an application similar to Linktree, developed for the Front-End 
 * Vite
 
 ## How It Works
-1. The user enters an ID in the URL ```http://localhost:5173/?id:id```
+1. The user enters an ID in the URL ```http://localhost:5173/?id=id```
 2. The application reads the data corresponding to the ID from a JSON file.
 3. The page is dynamically rendered with the links associated with the provided ID.
 
